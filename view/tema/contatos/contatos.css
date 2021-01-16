@@ -1,0 +1,31 @@
+#frmcontatoazul {
+    padding: 18px;
+    width: 680px
+}
+
+#frmcontatoazul fieldset {
+    border: 1px double #20a;
+    padding: 10px;
+    border-radius: 4px
+}
+
+#frmcontatoazul fieldset .form-group {
+    color: #204D74;
+}
+
+#frmcontatoazul fieldset legend {
+    background-color: #204D74;
+    color: #ffe;
+    padding: 10px;
+    margin: 4px;
+    margin-bottom: 20px;
+    border-radius: 8px
+}
+
+#frmcontatoazul #singlebutton {
+    margin-top: 20pt
+}
+
+#frmcontatoazul .help-block {
+    display: none
+}

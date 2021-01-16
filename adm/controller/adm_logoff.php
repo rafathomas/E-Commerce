@@ -1,0 +1,12 @@
+<?php
+
+Login::LogoffADM();
+
+
+
+
+
+
+
+
+?>
